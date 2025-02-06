@@ -1,7 +1,7 @@
 # WikiPesquisa
 WikiPesquisa aplicação web eficaz para exibir pesquisas da Wikipédia de forma simples e rápida.
 
-WUma ferramenta de pesquisa intuitiva para a Wikipedia, com histórico de buscas.
+Uma ferramenta de pesquisa intuitiva para a Wikipedia, com histórico de buscas.
 Descrição
 PT-BR: WikiSearch é uma aplicação web simples e eficaz que permite aos usuários pesquisarem artigos na Wikipedia de forma rápida e fácil. Com uma interface amigável, a aplicação oferece resultados de pesquisa relevantes e a opção de visualizar o histórico de buscas para facilitar o acesso a artigos já visitados.
 
