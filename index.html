@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Wiki Pesquisar</title>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Wiki Pesquisa</h1>
+            <form class="search-box">
+                <input type="search" placeholder="O que você quer pesquisar?">
+                <button type="submit">Buscar</button>
+                <button type="button" id="back-button">Voltar</button>
+            </form>
+            <p>Contador de resultados: 0</p>
+        </header>
+        <div class="results"></div>
+
+        <button id="history-button">Mostrar histórico</button>
+        <div id="history" class="history">
+            <h2>Seu histórico</h2>
+            <ul id="history-list"></ul>
+        </div>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>
